@@ -1,5 +1,6 @@
-# signal_step1.py
 # [Recovered Fragment A]
+# источник сигнала нестабилен
+# signal source is unstable
 
 def transmit_packet(data):
     if not data:
@@ -14,3 +15,4 @@ def checksum(data):
 
 # ~Recovered: 2023.04.17 04:03:17
 # ~Checksum Reference: 93F4A1
+# восстановление частично подтвержден # recovery partially confirmed
