@@ -1,0 +1,8 @@
+[04:37:11] Node echo received — relay_zero_v2
+[04:37:12] Filtering initialized (delta threshold: 0.012)
+[04:37:13] Clean packet match: 17
+[04:37:14] Degraded fragments detected
+[04:37:15] Partial checksum mismatch — 7A4F_C3
+[04:37:17] Resync request rejected (incomplete auth frame)
+
+[END LOG]
