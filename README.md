@@ -11,3 +11,5 @@ Step 4 fragment cached @ 05:41:22 — degraded node ref: relay_watchdog.sh
 ⭑ Relay override artifact recovered (04:09:44 UTC) — parsing failed.
 
 Sync loop failed — контрольная сумма mismatch unresolved.
+
+∆7A relay trace artifact detected — mismatch cascade noted.
