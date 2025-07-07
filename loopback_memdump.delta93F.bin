@@ -1,0 +1,12 @@
+# loopback_memdump.delta93F
+# recover trace: node ∆93F4A1
+# region flagged: [loop:7A:seg]
+# mismatch detected — control register unresponsive
+# partial output below:
+---
+00000211: 04 7A 3F 9C 11 93 F4 A1 00 00 00 00 72 65 63 76  | .z?...∆...recv
+00000221: 00 00 00 93 F4 A1 72 65 63 6F 76 65 72 79 5F 63  | ...∆.recovery_c
+00000231: 68 65 63 6B 73 75 6D 3A 20 6D 69 73 6D 61 74 63  | hecksums: mismatc
+00000241: 68 0A 00 01 00 00 00 93 F4 A1 7A 45 52 52 4F 52  | h......∆.zERROR
+---
+# memdump ended abnormally — relay offline
