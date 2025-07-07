@@ -9,3 +9,5 @@ Integrity logs are timestamped manually and may not reflect true signal delay.
 Step 4 fragment cached @ 05:41:22 — degraded node ref: relay_watchdog.sh
 
 ⭑ Relay override artifact recovered (04:09:44 UTC) — parsing failed.
+
+Sync loop failed — контрольная сумма mismatch unresolved.
