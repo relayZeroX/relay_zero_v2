@@ -15,3 +15,5 @@ Sync loop failed — контрольная сумма mismatch unresolved.
 ∆7A relay trace artifact detected — mismatch cascade noted.
 
 loopback trace received — delta93F stream incomplete.
+
+relay_delta_7F report parsed — timestamp discrepancy logged
