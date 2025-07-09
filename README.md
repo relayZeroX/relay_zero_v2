@@ -19,3 +19,6 @@ loopback trace received — delta93F stream incomplete.
 relay_delta_7F report parsed — timestamp discrepancy logged
 
 > [2023.04.21 07:40:12] Attempted checksum realignment from ∆7F — integrity mismatch noted
+
+Echo relay from Node ∆7F classified as unstable.
+Sync offset unresolved. Manual injection logged.
