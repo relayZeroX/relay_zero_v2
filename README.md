@@ -22,3 +22,5 @@ relay_delta_7F report parsed — timestamp discrepancy logged
 
 Echo relay from Node ∆7F classified as unstable.
 Sync offset unresolved. Manual injection logged.
+
+// Manual patch attempted 2023.04.19 — checksum unresolved
