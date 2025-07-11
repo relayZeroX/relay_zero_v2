@@ -26,3 +26,6 @@ Sync offset unresolved. Manual injection logged.
 // Manual patch attempted 2023.04.19 — checksum unresolved
 
 [2023.04.19 06:27:41] Phantom relay ∆7F7F acknowledged without return path. Possibly lateral. No sender ID found.
+
+Forked relay trace detected.
+Origin node unverified.
