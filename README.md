@@ -29,3 +29,5 @@ Sync offset unresolved. Manual injection logged.
 
 Forked relay trace detected.
 Origin node unverified.
+
+> partial recovery from fragmented log (parser_fragment.bin) — contents unverifiable
