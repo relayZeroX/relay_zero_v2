@@ -1,0 +1,13 @@
+// RESPONSE LOG // NODE-31a  
+link confirmed: sibling chain → A0_11  
+sync attempt: failed  
+CORRECTION: status rejected  
+reason: trust anchor mismatch  
+override: инициирована вручную  
+integrity state: unstable  
+propagation: остановлено
+
+-- INCIDENT LOG // CHAIN-A0_11  
+breach vector: подпись mismatch  
+trace: incomplete  
+доверие: suspended
