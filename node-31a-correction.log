@@ -1,0 +1,5 @@
+-- CORRECTION: NODE-31a  
+status: rejected  
+reason: цепь нарушена  
+origin: node-41b  
+signature: ␀␀␀ NULL PULSE DETECTED
