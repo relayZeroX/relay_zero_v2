@@ -38,3 +38,17 @@ Origin node unverified.
 > ∴ Awaiting correction from sibling chain
 
 - [node_31a_response_log.txt] – Response log indicating continued integrity issues and trust breach in sibling chain A0_11 (2025.07.17)
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first  
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+<!--  
+note: recent integrity loss resolved via NODE-31a fallback  
+mirror reference available [offchain]  
+flag: 447C-Б-Delta3  
+-->
